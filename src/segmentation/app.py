@@ -5,7 +5,7 @@ import numpy as np
 import streamlit as st
 from PIL import Image
 
-from src.segmentation.unet import UNet
+from unet import UNet
 
 
 # ============================================================
